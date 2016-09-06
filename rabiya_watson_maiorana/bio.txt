@@ -1,4 +1,5 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: Snatch
+ Favorite Food: Ginger, in all forms
+ Favorite Candy: See Above.
+ Birthday: August 8 :)
